@@ -1,5 +1,8 @@
 # CloudEco — Wildfire & Smoke Detection API
 
+## Link to the Model file
+https://drive.google.com/file/d/1CkD6pS_WREAl8tl1RDhlrt-ASX0Ln7Wh/view?usp=sharing
+
 ## Project Structure
 
 ```

@@ -1,12 +1,5 @@
 # CloudEco — Wildfire & Smoke Detection API
 
-**FIT5225 Assignment 1 | Model 1 (Wildfire & Smoke) | Student ID ending: 0**
-
-## Live Application URL
-**http://35.223.85.181:31486**
-
----
-
 ## Project Structure
 
 ```
